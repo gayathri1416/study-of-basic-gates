@@ -66,8 +66,8 @@ Y= A⊕B
 ```
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by   : GAYATHRI C
- RegisterNumber : 25009125
+ Developed by    : GAYATHRI C
+ Register Number : 25009125
 
 module e1(a,b,c,d,e,f,g,h);
 input a,b;
@@ -87,9 +87,7 @@ endmodule
 
 
 **RTL realization Output:** 
-
-<img width="470" height="270" alt="Screenshot 2025-11-15 143021" src="https://github.com/user-attachments/assets/9573ca81-c954-4a7f-8950-7dcb6e1b65c0" />
-
+<img width="504" height="247" alt="Screenshot 2025-11-22 211609" src="https://github.com/user-attachments/assets/82ac48e4-530c-4a96-be0d-822eaf3ba586" />
 
 **RTL WAVEFORM TIMING:**
 <img width="1919" height="1018" alt="Screenshot 2025-11-15 144359" src="https://github.com/user-attachments/assets/f447c6b0-ee8b-45b7-b8f7-0eebabfe88ad" />
