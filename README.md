@@ -82,11 +82,13 @@ endmodule
 ```
  
 **Logic symbol & Truthtable**
+
 ![Truth table](https://github.com/user-attachments/assets/ba1c6cb5-c4a8-4db3-a6dd-164fa9c27f83)
 
 
 
 **RTL realization Output:** 
+
 <img width="504" height="247" alt="Screenshot 2025-11-22 211609" src="https://github.com/user-attachments/assets/82ac48e4-530c-4a96-be0d-822eaf3ba586" />
 
 **RTL WAVEFORM TIMING:**
